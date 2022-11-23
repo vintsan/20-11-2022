@@ -1,0 +1,9 @@
+body {
+    background: rgb(226, 205, 190);
+    
+}
+table, td, tr {
+    
+    border: 1 solid red;
+    margin: 30px;
+} 
